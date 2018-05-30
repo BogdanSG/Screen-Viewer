@@ -1,0 +1,45 @@
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\ClientWPF.exe.config
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\ClientWPF.exe
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\ClientWPF.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\NAudio.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\NAudio.xml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.csprojResolveAssemblyReference.cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ConnectionWindow.g.cs
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\MainWindow.g.cs
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\App.g.cs
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF_MarkupCompile.cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF_MarkupCompile.lref
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ConnectionWindow.baml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\MainWindow.baml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.g.resources
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.Properties.Resources.resources
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.csproj.GenerateResource.Cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.csproj.CoreCompileInputs.cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.exe
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.pdb
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\ClientWPF.exe.config
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\ClientWPF.exe
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\ClientWPF.pdb
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\NAudio.dll
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\NAudio.xml
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.csprojResolveAssemblyReference.cache
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ConnectionWindow.g.cs
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\MainWindow.g.cs
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\App.g.cs
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF_MarkupCompile.cache
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF_MarkupCompile.lref
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ConnectionWindow.baml
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\MainWindow.baml
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.g.resources
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.Properties.Resources.resources
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.csproj.GenerateResource.Cache
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.csproj.CoreCompileInputs.cache
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.exe
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ClientWPF.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\ScreenViewer.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\bin\Release\ScreenViewer.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ChatFileMessage.g.cs
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ChatMessage.g.cs
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\App.baml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ChatFileMessage.baml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ClientWPF\obj\Release\ChatMessage.baml

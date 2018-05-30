@@ -1,0 +1,41 @@
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ServerWF.exe.config
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ServerWF.exe
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ServerWF.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ConsoleControl.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\NAudio.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.Direct3D11.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.DXGI.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\NAudio.xml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.xml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.Direct3D11.xml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.DXGI.xml
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.csprojResolveAssemblyReference.cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.Form1.resources
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.Properties.Resources.resources
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.csproj.GenerateResource.Cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.csproj.CoreCompileInputs.cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.exe
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.pdb
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ServerWF.exe.config
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ServerWF.exe
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ServerWF.pdb
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ConsoleControl.dll
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\NAudio.dll
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.dll
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.DXGI.dll
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ConsoleControl.pdb
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\NAudio.xml
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.xml
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\SharpDX.DXGI.xml
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.csprojResolveAssemblyReference.cache
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.Form1.resources
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.Properties.Resources.resources
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.csproj.GenerateResource.Cache
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.csproj.CoreCompileInputs.cache
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.exe
+C:\Users\students.STEPDN\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\obj\Release\ServerWF.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ScreenViewer.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ServerWF\bin\Release\ScreenViewer.pdb

@@ -1,0 +1,6 @@
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\bin\Release\ScreenViewer.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\bin\Release\ScreenViewer.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Release\ScreenViewer.csproj.CoreCompileInputs.cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Release\ScreenViewer.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Release\ScreenViewer.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Release\ScreenViewer.csprojResolveAssemblyReference.cache

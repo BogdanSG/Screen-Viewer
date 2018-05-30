@@ -1,0 +1,18 @@
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\bin\Debug\ScreenViewer.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\bin\Debug\ScreenViewer.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.csproj.CoreCompileInputs.cache
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.dll
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.pdb
+C:\MEGA\Projects\programming\c#\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.csprojResolveAssemblyReference.cache
+C:\Files\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\bin\Debug\ScreenViewer.dll
+C:\Files\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\bin\Debug\ScreenViewer.pdb
+C:\Files\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.csprojResolveAssemblyReference.cache
+C:\Files\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.csproj.CoreCompileInputs.cache
+C:\Files\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.dll
+C:\Files\Screen Viewer\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.pdb
+C:\Users\SuperGangster\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\bin\Debug\ScreenViewer.dll
+C:\Users\SuperGangster\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\bin\Debug\ScreenViewer.pdb
+C:\Users\SuperGangster\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.csprojResolveAssemblyReference.cache
+C:\Users\SuperGangster\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.csproj.CoreCompileInputs.cache
+C:\Users\SuperGangster\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.dll
+C:\Users\SuperGangster\Desktop\TCP-UDP-P2P\ScreenViewerUDP_P2P\ScreenViewer\obj\Debug\ScreenViewer.pdb

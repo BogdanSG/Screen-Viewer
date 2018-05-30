@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerWF", "ServerWF\ServerWF.csproj", "{A426753E-9E0D-4821-A278-A4F0F91B2900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientWPF", "ClientWPF\ClientWPF.csproj", "{574DE79C-30D6-4873-BD68-8D1E27607571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenViewer", "ScreenViewer\ScreenViewer.csproj", "{073E8C2A-5862-458D-9674-10214A380045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A426753E-9E0D-4821-A278-A4F0F91B2900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A426753E-9E0D-4821-A278-A4F0F91B2900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A426753E-9E0D-4821-A278-A4F0F91B2900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A426753E-9E0D-4821-A278-A4F0F91B2900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574DE79C-30D6-4873-BD68-8D1E27607571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574DE79C-30D6-4873-BD68-8D1E27607571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574DE79C-30D6-4873-BD68-8D1E27607571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574DE79C-30D6-4873-BD68-8D1E27607571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{073E8C2A-5862-458D-9674-10214A380045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073E8C2A-5862-458D-9674-10214A380045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073E8C2A-5862-458D-9674-10214A380045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073E8C2A-5862-458D-9674-10214A380045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F9752A8-F049-41F3-A8D0-C50854FEA256}
+	EndGlobalSection
+EndGlobal

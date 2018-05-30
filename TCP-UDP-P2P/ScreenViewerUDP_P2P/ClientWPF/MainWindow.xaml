@@ -1,0 +1,98 @@
+﻿<Window x:Class="ClientWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:theme="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero"
+        xmlns:local="clr-namespace:ClientWPF"
+        mc:Ignorable="d"
+        Title="Client ScreenViewer" Height="350" Width="525" MinHeight="180" MinWidth="320" Loaded="Window_Loaded" MouseDoubleClick="Window_MouseDoubleClick" WindowStartupLocation="CenterScreen" KeyDown="Window_KeyDown">
+    <Grid Name="MainGrid" Background="#0e0e0e" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+
+        <Grid.Resources>
+
+            <Style x:Key="TextBlockStyle" TargetType="TextBlock">
+
+                <Setter Property="Foreground" Value="White" ></Setter>
+                <Setter Property="FontSize" Value="20" ></Setter>
+
+            </Style>
+
+        </Grid.Resources>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Name="SideBarColumn" Width="0"/>
+            <ColumnDefinition Width="199*"/>
+        </Grid.ColumnDefinitions>
+
+        <Canvas Name="ScreenCanvas" Grid.Column="1">
+
+            <Image Width="{Binding ElementName=ScreenCanvas, Path=ActualWidth}" Height="{Binding ElementName=ScreenCanvas, Path=ActualHeight}" Name="MainImage"/>
+
+            <Grid Background="Transparent" Width="150" Height="{Binding ElementName=MainGrid, Path=ActualHeight}" MouseEnter="Grid_MouseEnter" MouseLeave="Grid_MouseLeave">
+
+                <TextBlock Name="ChatButton_TextBlock" Margin="-33,0,0,0" Style="{StaticResource TextBlockStyle}" Text="&#x2630;" Width="33" Height="33" TextAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Top" MouseEnter="TextBlock_MouseEnter" MouseLeave="TextBlock_MouseLeave" MouseDown="TextBlock_MouseDown" Background="#FF464646"  >
+                    <TextBlock.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter" >
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <ColorAnimation 
+                                        Storyboard.TargetProperty="(TextBlock.Background).(SolidColorBrush.Color)"
+                                        To="#FF686868"
+                                        Duration="00:00:0.2"
+                                        />
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave" >
+                            <BeginStoryboard>
+                                <Storyboard>
+                                    <ColorAnimation 
+                                        Storyboard.TargetProperty="(TextBlock.Background).(SolidColorBrush.Color)"
+                                        To="#FF464646"
+                                        Duration="00:00:0.2"
+                                        />
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                    </TextBlock.Triggers>
+                </TextBlock>
+
+            </Grid>
+
+        </Canvas>
+
+        <Grid Background="#FF3AB2F7" Name="ChatStackPanel" Drop="ChatStackPanel_Drop" AllowDrop="True">
+
+            <DockPanel>
+
+                <TextBlock DockPanel.Dock="Top" Name="MenuTextBlock" Style="{StaticResource TextBlockStyle}" Width="300" TextAlignment="Center" >Chat</TextBlock>
+
+                <Border DockPanel.Dock="Left" Width="0" Height="0"></Border>
+
+                <Border DockPanel.Dock="Right" Width="0" Height="0"></Border>
+
+                <StackPanel DockPanel.Dock="Bottom" VerticalAlignment="Bottom" Margin="0,0,0,10">
+
+                    <ComboBox Name="To_Message_ComboBox" Height="25" Margin="15,0,15,0" VerticalContentAlignment="Center"></ComboBox>
+
+                    <TextBox TextWrapping="Wrap" AcceptsReturn="True" Name="Input_Chat_TextBox" Height="40" Margin="15,0,15,0" MaxLength="2000"></TextBox>
+
+                    <Button Name="Send_Message_Button" Height="24" Margin="15,0,15,0" Background="#FF8FC1FD" Click="Send_Message_Button_Click">Send</Button>
+
+                </StackPanel>
+
+                <ScrollViewer Margin="10,2,10,10" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+
+                    <StackPanel Name="Chat_StackPanel">
+
+                    </StackPanel>
+
+                </ScrollViewer>
+
+            </DockPanel>
+
+        </Grid>
+
+    </Grid>
+</Window>
